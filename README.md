@@ -1,10 +1,10 @@
 # Burger_Bonanza
 - A simple burger logger using MySQL, Node, Express, Handlebars and a homemade ORM.
-- Node and MySQL are used to query and route data in the app, and Handlebars to generate the HTML.
+- Node and MySQL are used to query and route data in the app, and Handlebars is used to generate the HTML.
 
 
 # Notes:
-Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
+Burger_Bonanza is a restaurant app that lets users input the names of burgers they'd like to eat.
 
 Whenever a user submits a burger's name, your app will display the burger on the left side of the page -- waiting to be devoured.
 
@@ -137,7 +137,7 @@ All the recommended files and directories from the steps above should look like 
 ├── config
 │   ├── connection.js
 │   └── orm.js
-│ 
+│
 ├── controllers
 │   └── burgers_controller.js
 │
@@ -147,9 +147,9 @@ All the recommended files and directories from the steps above should look like 
 │
 ├── models
 │   └── burger.js
-│ 
+│
 ├── node_modules
-│ 
+│
 ├── package.json
 │
 ├── public
